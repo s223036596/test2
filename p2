@@ -1,0 +1,7 @@
+// Call /add route
+// http://localhost:3000/add?x=5&y=10
+
+// Returns: 
+{
+  "result": 15
+}
